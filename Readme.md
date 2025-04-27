@@ -10,6 +10,12 @@ EcoMonad leverages blockchain technology to create a trustworthy system for carb
 
 ---
 
+Carbon Oracle - https://testnet.monadexplorer.com/address/0x8182BEF887361F3312D344e229160C389616b6F0
+
+Electricity  Carbon Oracle - https://testnet.monadexplorer.com/address/0x61edDE0E4B97D878C14F5f5706309d4572550Afa
+
+Flight Carbon  Oracle -  https://testnet.monadexplorer.com/address/0x07DE1d80A61360e7f4d73168D362F7C3EBd0584C?tab=Transaction
+
 ## Features
 
 ### Multi-Sector Emissions Tracking
