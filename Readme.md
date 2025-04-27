@@ -1,12 +1,12 @@
-# EcoPharos
+# EcoMonad
 
-**EcoPharos** is a blockchain-powered carbon emissions tracking and verification platform built on the Pharos Network. It provides transparent, immutable records of carbon emissions across various sectors, helping organizations monitor, report, and reduce their carbon footprint.
+**EcoMonad** is a blockchain-powered carbon emissions tracking and verification platform built on the Pharos Network. It provides transparent, immutable records of carbon emissions across various sectors, helping organizations monitor, report, and reduce their carbon footprint.
 
 ---
 
 ## Overview
 
-EcoPharos leverages blockchain technology to create a trustworthy system for carbon emissions data. By recording emissions data on the blockchain, it ensures that environmental reporting is transparent, tamper-proof, and verifiable.
+EcoMonad leverages blockchain technology to create a trustworthy system for carbon emissions data. By recording emissions data on the blockchain, it ensures that environmental reporting is transparent, tamper-proof, and verifiable.
 
 ---
 
@@ -105,4 +105,4 @@ EcoPharos leverages blockchain technology to create a trustworthy system for car
 
 ## About
 
-EcoPharos represents a significant step forward in bringing transparency and accountability to carbon emissions reporting through blockchain technology on the Pharos platform.
+EcoMonad represents a significant step forward in bringing transparency and accountability to carbon emissions reporting through blockchain technology on the Pharos platform.
